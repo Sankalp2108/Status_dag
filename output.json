@@ -1,0 +1,1975 @@
+{
+    "dags": [
+        {
+            "dag_id": "64365ac7e5a4dc51fc8fb7c0",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "proj34"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "pipeline1"
+                }
+            ]
+        },
+        {
+            "dag_id": "64366123e5a4dc51fc8fb7f3",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "proj34"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "pipeline2"
+                }
+            ]
+        },
+        {
+            "dag_id": "64367f53f4bf1ee95ffe6550",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "proj37"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "pipelin1"
+                }
+            ]
+        },
+        {
+            "dag_id": "6446696f09c0493ee6e807bb",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "proj34"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "pipeline3"
+                }
+            ]
+        },
+        {
+            "dag_id": "64477c7f73a62677d32dc93f",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "Dashboard"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "Data Pipeline1"
+                }
+            ]
+        },
+        {
+            "dag_id": "6447830173a62677d32dc9bf",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "Dashboard"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "Data Pipeline2"
+                }
+            ]
+        },
+        {
+            "dag_id": "6447a11c73a62677d32dcaf9",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "Dashboard"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "p3"
+                }
+            ]
+        },
+        {
+            "dag_id": "6447a8fb73a62677d32dcb7b",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "Dashboard"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "p4"
+                }
+            ]
+        },
+        {
+            "dag_id": "6447b47073a62677d32dcbf9",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "Dashboard"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "p5"
+                }
+            ]
+        },
+        {
+            "dag_id": "6447c10173a62677d32dcc7d",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "Dashboard"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "p6"
+                }
+            ]
+        },
+        {
+            "dag_id": "6447cdfb73a62677d32dcd19",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "Dashboard"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "p7"
+                }
+            ]
+        },
+        {
+            "dag_id": "6447d0fd73a62677d32dcdcd",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "Dashboard"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "P8"
+                }
+            ]
+        },
+        {
+            "dag_id": "6448c25373a62677d32dd0ab",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "Dashboard"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "P9"
+                }
+            ]
+        },
+        {
+            "dag_id": "6448ea8373a62677d32dd306",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "Dashboard v 0.0.1"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "Data Pipeline1"
+                }
+            ]
+        },
+        {
+            "dag_id": "6448ed5073a62677d32dd32a",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "Dashboard v 0.0.1"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "P1"
+                }
+            ]
+        },
+        {
+            "dag_id": "645253dd73a62677d32ddb36",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "proj34"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "P1"
+                }
+            ]
+        },
+        {
+            "dag_id": "645257a373a62677d32ddd34",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "proj41"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "p1"
+                }
+            ]
+        },
+        {
+            "dag_id": "64535e8073a62677d32ddea3",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "proj34"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "P2"
+                }
+            ]
+        },
+        {
+            "dag_id": "6453935173a62677d32de1a9",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "proj42"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "p1"
+                }
+            ]
+        },
+        {
+            "dag_id": "6453937473a62677d32de1d4",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "proj42"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "p2"
+                }
+            ]
+        },
+        {
+            "dag_id": "6458bf9f73a62677d32de946",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "proj42"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "p3"
+                }
+            ]
+        },
+        {
+            "dag_id": "6459ff4373a62677d32dee9d",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "proj42"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "P4"
+                }
+            ]
+        },
+        {
+            "dag_id": "645a1ede73a62677d32df002",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "proj42"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "p5"
+                }
+            ]
+        },
+        {
+            "dag_id": "645a203173a62677d32df09c",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "proj42"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "P6"
+                }
+            ]
+        },
+        {
+            "dag_id": "645b2cc873a62677d32df24d",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "Dashboard Test1"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "Data Pipeline1"
+                }
+            ]
+        },
+        {
+            "dag_id": "645b2f7673a62677d32df27e",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "Dashboard Test1"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "Data Pipeline2"
+                }
+            ]
+        },
+        {
+            "dag_id": "645b31e373a62677d32df2d9",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "Dashboard Test1"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "Data Pipeline"
+                }
+            ]
+        },
+        {
+            "dag_id": "645b42cc73a62677d32df357",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "Dashboard Test1"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "DataPipeline4"
+                }
+            ]
+        },
+        {
+            "dag_id": "645b4bc873a62677d32df3e8",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "Dashboard Test1"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "DataPipeline5"
+                }
+            ]
+        },
+        {
+            "dag_id": "646331550676d2c409a663da",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL25ld19kYWcucHki.esXVdK26Y7bt7kl1VMTVzQt439M",
+            "fileloc": "/opt/airflow/dags/new_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": [
+                {
+                    "name": "Proj-Testing"
+                },
+                {
+                    "name": "ETL"
+                },
+                {
+                    "name": "P1"
+                }
+            ]
+        },
+        {
+            "dag_id": "airflow-log-cleanup",
+            "description": "None",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2FpcmZsb3ctbG9nLWNsZWFudXAucHki.equZJFXIAnAgdlSSx7Obw_4eeWo",
+            "fileloc": "/opt/airflow/dags/airflow-log-cleanup.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": {
+                "__type": "CronExpression",
+                "value": "0 5 * * *"
+            },
+            "tags": [
+                {
+                    "name": "airflow-maintenance-dag"
+                }
+            ]
+        },
+        {
+            "dag_id": "alarms-data-pipeline",
+            "description": "Alarms-Data",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2FsYXJtc19kYXRhLnB5Ig.ihRYAlEkVhMEyHgx9MFQo6CgoEs",
+            "fileloc": "/opt/airflow/dags/alarms_data.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": {
+                "__type": "CronExpression",
+                "value": "*/120 * * * *"
+            },
+            "tags": []
+        },
+        {
+            "dag_id": "alarms-data-pipeline-UC-1-2-3",
+            "description": "Alarms-Data",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2FsYXJtc19kYXRhLnB5Ig.ihRYAlEkVhMEyHgx9MFQo6CgoEs",
+            "fileloc": "/opt/airflow/dags/alarms_data.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": {
+                "__type": "CronExpression",
+                "value": "*/120 * * * *"
+            },
+            "tags": []
+        },
+        {
+            "dag_id": "alarms-data-pipeline_view",
+            "description": "Alarms-Data",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2FsYXJtX2RhdGFfcGlwZWxpbmVfdmlldy5weSI.B5Yh-f2angcJauyJj9ylB4XRtkk",
+            "fileloc": "/opt/airflow/dags/alarm_data_pipeline_view.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": {
+                "__type": "CronExpression",
+                "value": "*/60 * * * *"
+            },
+            "tags": []
+        },
+        {
+            "dag_id": "apriori-job-1-stage-1-dag",
+            "description": "apriori_stage_1_dag_",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2FwcmlvcmlfbWV0aG9kL2Fwcmlvcmlfc3RhZ2VfMV9kYWcucHki.COrFht1wszowNP73ikTK5JjOTcw",
+            "fileloc": "/opt/airflow/dags/apriori_method/apriori_stage_1_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": {
+                "__type": "CronExpression",
+                "value": "0 8 * * *"
+            },
+            "tags": []
+        },
+        {
+            "dag_id": "apriori-job-stage-1-dag",
+            "description": "apriori_stage_1_dag_",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2FwcmlvcmlfbWV0aG9kL2Fwcmlvcmlfc3RhZ2VfMV9kYWcucHki.COrFht1wszowNP73ikTK5JjOTcw",
+            "fileloc": "/opt/airflow/dags/apriori_method/apriori_stage_1_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": {
+                "__type": "CronExpression",
+                "value": "0 8 * * *"
+            },
+            "tags": []
+        },
+        {
+            "dag_id": "Audit_Functionality_1_4_Dag",
+            "description": "Alarms-Data",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL0F1ZGl0X0Z1bmN0aW9uYWxpdHkucHki.SQDo_FzFvxBUrkg-mTW0EjLBfLc",
+            "fileloc": "/opt/airflow/dags/Audit_Functionality.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": {
+                "__type": "CronExpression",
+                "value": "*/30 * * * *"
+            },
+            "tags": []
+        },
+        {
+            "dag_id": "audit_functionality_1_4_test_dag",
+            "description": "audit_functionality_1_4_test_dag",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzLy5sb2NhbC9zaGFyZS9UcmFzaC9maWxlcy9hdWRpdF9mdW5jdGlvbmFsaXR5X3Rlc3QucHki.GkNpujgbWrlj7N_XIFrAdihi0tw",
+            "fileloc": "/opt/airflow/dags/.local/share/Trash/files/audit_functionality_test.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": {
+                "__type": "CronExpression",
+                "value": "*/30 * * * *"
+            },
+            "tags": []
+        },
+        {
+            "dag_id": "Audit-Image-Test",
+            "description": "Audit-Image-Test",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL0F1ZGl0X0VEUF9JbWFnZV9UZXN0LnB5Ig.buaHUAaBJsAFSWucJxSxQIPBGno",
+            "fileloc": "/opt/airflow/dags/Audit_EDP_Image_Test.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": {
+                "__type": "CronExpression",
+                "value": "* 11 * * *"
+            },
+            "tags": []
+        },
+        {
+            "dag_id": "bet_max_uc12",
+            "description": "UC12",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2JldHdlZW5lc3NfbWF4Zmxvd191YzEyLnB5Ig.rly1M-j98JEiGO90ru25ffKLclc",
+            "fileloc": "/opt/airflow/dags/betweeness_maxflow_uc12.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": []
+        },
+        {
+            "dag_id": "cdr_data_test_dag",
+            "description": "UC4",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL3VjNS1jZHItZGF0YS1waXBlbGluZS0xaHIucHki.a_M-pTbeSwIumJSRbuNSBmymY5I",
+            "fileloc": "/opt/airflow/dags/uc5-cdr-data-pipeline-1hr.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": []
+        },
+        {
+            "dag_id": "cdr_uc5_data_ingestion_dag",
+            "description": "UC5",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL3VjNV9kYXRhX2luZ2VzdGlvbi5weSI.SCs6waf-xretulOY7vALt3n-2q0",
+            "fileloc": "/opt/airflow/dags/uc5_data_ingestion.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": []
+        },
+        {
+            "dag_id": "clear-alerts-dag",
+            "description": "clear-alert",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2NsZWFyX2FsYXJtX2RhZy5weSI.Oj93ggRWEOSvd9eaO4bcR-nB1Cs",
+            "fileloc": "/opt/airflow/dags/clear_alarm_dag.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": []
+        },
+        {
+            "dag_id": "connect-kafka-dag",
+            "description": "Data_Governance",
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2Nvbm5lY3Qta2Fma2EucHki.ni-tcEU7lET6Cpq1KQnWUKrk_Lc",
+            "fileloc": "/opt/airflow/dags/connect-kafka.py",
+            "is_active": "True",
+            "is_paused": "True",
+            "is_subdag": "True",
+            "owners": [
+                "airflow"
+            ],
+            "root_dag_id": "None",
+            "schedule_interval": "None",
+            "tags": []
+        },
+        {
+            "dag_id": "DAG_STATUS_run_fail_2",
+            "description": "Checking all DAG's status", 
+            "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL3N0YXR1c19zY2FubmluZ19kYWcucHkide0p-QrXo-DeN_kVmuu0NFQjkKc", "fileloc": "/opt/airflow/dags/status_scanning_dag.py", "is_active": "True", "is_paused": "True", "is_subdag": "True", 
+            "owners": ["airflow"],
+        "root_dag_id": "None",
+        "schedule_interval": {
+            "__type": "TimeDelta",
+            "days": 0,
+            "microseconds": 0,
+            "seconds": 1800
+        },
+        "tags": []
+    },
+    {
+        "dag_id": "data-pro-dag",
+        "description": "",
+        "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2RhdGEtcHJvLXRlc3QucHki.1ehHhDZutD4-lx1V60H364NEQww",
+        "fileloc": "/opt/airflow/dags/data-pro-test.py",
+        "is_active": "True",
+        "is_paused": "True",
+        "is_subdag": "True",
+        "owners": [
+            "airflow"
+        ],
+        "root_dag_id": "None",
+        "schedule_interval": "None",
+        "tags": []
+    },
+    {
+        "dag_id": "data-profiling-dag",
+        "description": "",
+        "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2RhdGEtcHJvZmlsaW5nLnB5Ig.MmVdL28N6oXNHtgTqcchMshaDwE",
+        "fileloc": "/opt/airflow/dags/data-profiling.py",
+        "is_active": "True",
+        "is_paused": "True",
+        "is_subdag": "True",
+        "owners": [
+            "airflow"
+        ],
+        "root_dag_id": "None",
+        "schedule_interval": "None",
+        "tags": []
+    },
+    {
+        "dag_id": "data_pruning_dag",
+        "description": "data_pruning_on_alarms_table",
+        "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzLy5sb2NhbC9zaGFyZS9UcmFzaC9maWxlcy9kYXRhX3BydW5pbmdfZGFnIDEucHki.7vaxUFDmbvGwIo8eGNjK-Maz0_0",
+        "fileloc": "/opt/airflow/dags/.local/share/Trash/files/data_pruning_dag 1.py",
+        "is_active": "True",
+        "is_paused": "True",
+        "is_subdag": "True",
+        "owners": [
+            "airflow"
+        ],
+        "root_dag_id": "None",
+        "schedule_interval": {
+            "__type": "CronExpression",
+            "value": "0 8 * * *"
+        },
+        "tags": []
+    },
+    {
+        "dag_id": "data-pruning-script-dag",
+        "description": "Data_Governance",
+        "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2RhdGFfcHJ1bmluZ19zY3JpcHQucHki.hMeQri72iY3GhDNXoLgfbFdTG50",
+        "fileloc": "/opt/airflow/dags/data_pruning_script.py",
+        "is_active": "True",
+        "is_paused": "True",
+        "is_subdag": "True",
+        "owners": [
+            "airflow"
+        ],
+        "root_dag_id": "None",
+        "schedule_interval": "None",
+        "tags": []
+    },
+    {
+        "dag_id": "dic-Fenix-Novo-dag",
+        "description": "dic-Fenix-Novo-dag",
+        "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2RpY0Zlbml4Tm92by5weSI.7vFCUJfhdy6Kpwq2d8ka80SjwEA",
+        "fileloc": "/opt/airflow/dags/dicFenixNovo.py",
+        "is_active": "True",
+        "is_paused": "True",
+        "is_subdag": "True",
+        "owners": [
+            "airflow"
+        ],
+        "root_dag_id": "None",
+        "schedule_interval": "None",
+        "tags": []
+    },
+    {
+        "dag_id": "dwdm-ip-ml-dag",
+        "description": "ML Stage1 execution",
+        "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2R3ZG1faXBfYW5jaG9yX21sLnB5Ig.GQSreLxifRWNl750Cb7sxfJQTGU",
+        "fileloc": "/opt/airflow/dags/dwdm_ip_anchor_ml.py",
+        "is_active": "True",
+        "is_paused": "True",
+        "is_subdag": "True",
+        "owners": [
+            "airflow"
+        ],
+        "root_dag_id": "None",
+        "schedule_interval": {
+            "__type": "CronExpression",
+            "value": "0 8 * * 6"
+        },
+        "tags": []
+    },
+    {
+        "dag_id": "EDP-Test",
+        "description": "EDP-test-DAG",
+        "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2FpcmZsb3dFZHAucHki.08HvoOFTePjOv5vkHnjEeDFrIK8",
+        "fileloc": "/opt/airflow/dags/airflowEdp.py",
+        "is_active": "True",
+        "is_paused": "True",
+        "is_subdag": "True",
+        "owners": [
+            "airflow"
+        ],
+        "root_dag_id": "None",
+        "schedule_interval": {
+            "__type": "CronExpression",
+            "value": "0 * * * *"
+        },
+        "tags": []
+    },
+    {
+        "dag_id": "EM_OP_DAG_STATUS_run_fail",
+        "description": "Checking all DAGs status", "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL0VNX09QX0RBR19TVEFUVVNfcnVuX2ZhaWwucHki.I3BeoAPfxXukiUPTZxjsepLsLhU", "fileloc": "/opt/airflow/dags/EM_OP_DAG_STATUS_run_fail.py", "is_active": "True", "is_paused": "True", "is_subdag": "True", "owners": ["krrish"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "TimeDelta",
+        "days": 0,
+        "microseconds": 0,
+        "seconds": 1800
+    },
+    "tags": []
+},
+{
+    "dag_id": "evaluation-timeseries",
+    "description": "AIML",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2V2YWwucHki.3rJZ2qKRIMCiWc0Gg9dFAWSs8Qk",
+    "fileloc": "/opt/airflow/dags/eval.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "*/60 * * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "generic-system-alert-dag",
+    "description": "generic-system-alert-dag",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2dlbmVyaWNfc3lzdGVtX2FsZXJ0c19kYWcucHki.T0NdulvnNooQWDWXr37Ue3Jnt8w",
+    "fileloc": "/opt/airflow/dags/generic_system_alerts_dag.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "*/30 * * * *"
+    },
+    "tags": [
+        {
+            "name": "AllUseCases"
+        }
+    ]
+},
+{
+    "dag_id": "historical-alarms-data-pipeline",
+    "description": "historical-alarms-data-pipeline",
+    "file_token": ".eJwNydEJgDAMBcBVpP9twFlc4GGjDUQTkoK4vd7vFTKfBIlD7aGOM6mp7VDKgWDaAjnoEOWkITkt5M8KRVxZOyaqi7PKzcva_C0fvyUdlg.KNLho_9pzcqQCW1VnUHN-gwn3kc",
+    "fileloc": "/opt/airflow/dags/.local/share/Trash/files/historical-alarms-data-pipeline 2.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "* 12 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "hive-to-postgres-inv-uc10",
+    "description": "hive-to-postgres-inv-uc10",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL3VjMTBfYmJpcF9pbnZlbnRvcnkucHki.EMMaY5qvJRIUIaf0C0jwdKIRYMc",
+    "fileloc": "/opt/airflow/dags/uc10_bbip_inventory.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "TimeDelta",
+        "days": 1,
+        "microseconds": 0,
+        "seconds": 0
+    },
+    "tags": []
+},
+{
+    "dag_id": "influx_to_mongo-dag",
+    "description": "Data Governance",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2luZmx1eF90b19tb25nby5weSI.Ty8eoJzLHAyQ3tL7PBunkohMWYw",
+    "fileloc": "/opt/airflow/dags/influx_to_mongo.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": "None",
+    "tags": []
+},
+{
+    "dag_id": "inv_alarms_rsnac_uc10",
+    "description": "inv_alarms_rsnac_uc10",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2ludl9yc25hY191YzEwLnB5Ig.fSaMGJD7Bgpm_DI00eDnI7p0kFg",
+    "fileloc": "/opt/airflow/dags/inv_rsnac_uc10.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "TimeDelta",
+        "days": 1,
+        "microseconds": 0,
+        "seconds": 0
+    },
+    "tags": []
+},
+{
+    "dag_id": "inv_ar_ne_edges_smart",
+    "description": "inv_ar_ne_edges_smart",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzLy5sb2NhbC9zaGFyZS9UcmFzaC9maWxlcy9pbnZfYXJfbmVfZWRnZXNfc21hcnQucHki.sQZgU4lrKJXn8zMH1j6Qb5BItZI",
+    "fileloc": "/opt/airflow/dags/.local/share/Trash/files/inv_ar_ne_edges_smart.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "* 11 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "inv_ar_ne_edges_smart_1",
+    "description": "inv_ar_ne_edges_smart_1",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2ludl9hcl9uZV9lZGdlc19zbWFydF8xLnB5Ig.-j7gL1fWkK_tG61PqKKU2MNKijU",
+    "fileloc": "/opt/airflow/dags/inv_ar_ne_edges_smart_1.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "* 11 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "inv_ar_ne_nodes",
+    "description": "inv_ar_ne_nodes",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2ludl9hcl9uZV9ub2Rlcy5weSI.1EzQ5vqGXWtXo8wmNlOr58wiR1w",
+    "fileloc": "/opt/airflow/dags/inv_ar_ne_nodes.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "* 11 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "inv_ar_router_connection",
+    "description": "inv_ar_site_nodes",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2ludl9hcl9yb3V0ZXJfY29ubmVjdGlvbi5weSI.HjCxq-dAaFJA48HbvXuQjU1gQ2E",
+    "fileloc": "/opt/airflow/dags/inv_ar_router_connection.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "* 11 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "inv_ar_site_master",
+    "description": "inv_ar_site_master",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2ludl9hcl9zaXRlX21hc3Rlci5weSI.qOc-4odG2qT8ObM1HsAVXRYoPjU",
+    "fileloc": "/opt/airflow/dags/inv_ar_site_master.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "* 11 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "inv_ar_site_nodes",
+    "description": "inv_ar_site_nodes",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2ludl9hcl9zaXRlX25vZGVzLnB5Ig.MsRWZ4pZ0Hp91xYu1v_wceQILCY",
+    "fileloc": "/opt/airflow/dags/inv_ar_site_nodes.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "* 11 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "inventory-count-check-pipeline",
+    "description": "Alarms-Data",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2ludmVudG9yeS1jb3VudC1jaGVjay1waXBlbGluZS5weSI.Lat79qvSoFZM8y_kgT93wwQsLIA",
+    "fileloc": "/opt/airflow/dags/inventory-count-check-pipeline.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "* * * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "inv-fenix-data-onboarding-dag",
+    "description": "inv_fenix_data_onboarding_dag",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzLy5sb2NhbC9zaGFyZS9UcmFzaC9maWxlcy9pbnYtZmVuaXgtZGF0YS1vbmJvYXJkaW5nLWRhZy5weSI.glIoDK1Q6T-SSetZI8nHv63bvQU",
+    "fileloc": "/opt/airflow/dags/.local/share/Trash/files/inv-fenix-data-onboarding-dag.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": "None",
+    "tags": []
+},
+{
+    "dag_id": "inv-hive-ne_edges-arangodb",
+    "description": "adding data network_element_edges data into arangodb from hive",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2ludl9hcl9uZV9lZGdlcy5weSI.I4te5O1p1257GvHzG0eKAu3c1e8",
+    "fileloc": "/opt/airflow/dags/inv_ar_ne_edges.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "* 11 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "inv-hive-ne_nodes-arangodb",
+    "description": "adding data network_element_nodes data into arangodb from hive",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2ludl9hcl9uZV9ub2Rlcy5weSI.1EzQ5vqGXWtXo8wmNlOr58wiR1w",
+    "fileloc": "/opt/airflow/dags/inv_ar_ne_nodes.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "* 11 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "inv_hive_pgsql",
+    "description": "Inv_Hive_Pgsql",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2ludl9oaXZlX3BnLnB5Ig.p6r82xyLHTYyPG7-isM07xhFk3k",
+    "fileloc": "/opt/airflow/dags/inv_hive_pg.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "* 9 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "inv-hive-router_connection-arangodb",
+    "description": "adding datarouter connection data into arangodb from hive",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2ludl9hcl9yb3V0ZXJfY29ubmVjdGlvbi5weSI.HjCxq-dAaFJA48HbvXuQjU1gQ2E",
+    "fileloc": "/opt/airflow/dags/inv_ar_router_connection.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "* 11 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "inv-hive-site_edges-arangodb",
+    "description": "adding data site_edges data into arangodb from hive",
+    "file_token": ".eJxFyTEOgDAIAMC_dLc8iWCLlWiAFKLp7x299QqYJ5DM47YXOo2AKr50x3Zyu9xEM0D0QZoYkozcB8f2b_VVPqjxGsY.opPvDOqvrOOXSprcepCFP5F3KLk",
+    "fileloc": "/opt/airflow/dags/.ipynb_checkpoints/inv_ar_site_edges-checkpoint.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "* 11 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "inv-hive-site_nodes-arangodb",
+    "description": "adding data network_element_edges data into arangodb from hive",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2ludl9hcl9zaXRlX25vZGVzLnB5Ig.MsRWZ4pZ0Hp91xYu1v_wceQILCY",
+    "fileloc": "/opt/airflow/dags/inv_ar_site_nodes.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "* 11 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "inv_intm_node_edge_data",
+    "description": "Inv_intm_node_Edge_data",
+    "file_token": ".eJwNyUEKgDAMBMC_eG_3M35gsakNRFOSgvh7nets8LlAjW7-oPFMVPODhhwMwR7Mga4miaG5PPTPQmNcWRoXy9QpprfU-W4fhVUdRA.yNoVTO4hhHsxvYnQ7vuTf5VR0PE",
+    "fileloc": "/opt/airflow/dags/.local/share/Trash/files/historical-alarms-data-pipeline.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "0 3 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "inv_int_node_edge_data",
+    "description": "inv_intm_node_Edge_data",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL3RlbGVfaW50bV9uZS5weSI.P8Jp_jEe77kw4XIJe5C63IFoIOo",
+    "fileloc": "/opt/airflow/dags/tele_intm_ne.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "0 3 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "inv_raw_intm_data",
+    "description": "inv_raw_int_data",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL3RlbGVfaW52X3Jhd19pbXQucHki.UjCvLZZ-rdAcK2Vvn0kvQIRzLys",
+    "fileloc": "/opt/airflow/dags/tele_inv_raw_imt.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "0 2 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "inv-raw-rsnac-hive",
+    "description": "onboarded rsnac database data into datalake",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL3RlbGVfaW52X3JzbmFjLnB5Ig.QMwlds0NruiUqDRKMwolSxK6qlg",
+    "fileloc": "/opt/airflow/dags/tele_inv_rsnac.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "0 1 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "inv-raw-science-hive",
+    "description": "onboarded science database data into datalake",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL3NjaWVuY2VfZGF0YW9uYm9hcmQucHki.QFwahUjld4yFWkwHArAPsVvjMVo",
+    "fileloc": "/opt/airflow/dags/science_dataonboard.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "0 1 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "inv-raw-smtx-hive",
+    "description": "onboarded sonar database data into datalake",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL3NtdHhfZGF0YW9uYm9hcmQucHki.gKoYTvgo2U3hafKmiQsDIUMkLF8",
+    "fileloc": "/opt/airflow/dags/smtx_dataonboard.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "0 1 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "inv-raw-sonar-hive",
+    "description": "onboarded sonar database data into datalake",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL3NvbmFyX2RhdGFvbmJvYXJkLnB5Ig._bM7L2Fk5lhz9skarQde_dPHlFk",
+    "fileloc": "/opt/airflow/dags/sonar_dataonboard.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "0 1 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "inv_rsnac_data",
+    "description": "inv_rsnac_data",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL3RlbGVfaW52X3JzbmFjLnB5Ig.QMwlds0NruiUqDRKMwolSxK6qlg",
+    "fileloc": "/opt/airflow/dags/tele_inv_rsnac.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "0 1 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "inv_rsnac_uc10",
+    "description": "inv_rsnac_uc10",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2ludl9yc25hY191YzEwLnB5Ig.fSaMGJD7Bgpm_DI00eDnI7p0kFg",
+    "fileloc": "/opt/airflow/dags/inv_rsnac_uc10.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "TimeDelta",
+        "days": 1,
+        "microseconds": 0,
+        "seconds": 0
+    },
+    "tags": []
+},
+{
+    "dag_id": "inv_science_data",
+    "description": "Inv_science_data",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL3NjaWVuY2VfZGF0YW9uYm9hcmQucHki.QFwahUjld4yFWkwHArAPsVvjMVo",
+    "fileloc": "/opt/airflow/dags/science_dataonboard.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "0 1 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "inv_smtx_data",
+    "description": "Inv_smtx_data",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL3NtdHhfZGF0YW9uYm9hcmQucHki.gKoYTvgo2U3hafKmiQsDIUMkLF8",
+    "fileloc": "/opt/airflow/dags/smtx_dataonboard.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "0 1 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "inv-stg-node_edge-pg_hive",
+    "description": "processed imtermidate data and created node and edge type collection into pg,hive",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL3RlbGVfaW50bV9uZS5weSI.P8Jp_jEe77kw4XIJe5C63IFoIOo",
+    "fileloc": "/opt/airflow/dags/tele_intm_ne.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "0 3 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "inv-stg-raw_stg-hive",
+    "description": "processsed onboarded data into data lake into intermidate state",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL3RlbGVfaW52X3Jhd19pbXQucHki.UjCvLZZ-rdAcK2Vvn0kvQIRzLys",
+    "fileloc": "/opt/airflow/dags/tele_inv_raw_imt.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "0 2 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "kafka-alarms-pipeline",
+    "description": "Alarms-Data",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2thZmthLWFsYXJtcy1waXBlbGluZS5weSI.GtTKYCbpQ0SIG9M0FVETM_C5MRg",
+    "fileloc": "/opt/airflow/dags/kafka-alarms-pipeline.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "*/30 * * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "kafka-test",
+    "description": "Data Governance",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL2thZmthLXRlc3QucHki._mjDr6VFkwr_mG_FeDCJjW6HcLc",
+    "fileloc": "/opt/airflow/dags/kafka-test.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": "None",
+    "tags": []
+},
+{
+    "dag_id": "ml-Stage1_execution",
+    "description": "ML Stage1 execution",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL21sX3N0YWdlMS5weSI.OpR67kNhqlVe5vciZCUPJTWoqTE",
+    "fileloc": "/opt/airflow/dags/ml_stage1.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "0 8 * * 6"
+    },
+    "tags": []
+},
+{
+    "dag_id": "mnp",
+    "description": "Test-arango",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzLy5sb2NhbC9zaGFyZS9UcmFzaC9maWxlcy9haXJmbG93X2RhZyAxL21ucC5weSI.bKzcCPYiwcMIm6do6QAxhCTGMYA",
+    "fileloc": "/opt/airflow/dags/.local/share/Trash/files/airflow_dag 1/mnp.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "* 11 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "mongo_to_hive",
+    "description": "archival_data",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL21vbmdvdG9oaXZlLnB5Ig.pFvOHsgJxWV7zJn2syoJSqUZ-AM",
+    "fileloc": "/opt/airflow/dags/mongotohive.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "0 10 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "mongo-to-postgres-uc10",
+    "description": "mongo-to-postgres-uc10",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL21vbmdvLXRvLXBvc3RncmVzLXVjMTAucHki.kbFfg1VhkUVLjHXFk1G3LGUs_EU",
+    "fileloc": "/opt/airflow/dags/mongo-to-postgres-uc10.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "*/8 * * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "new",
+    "description": "Test-arango",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzLy5sb2NhbC9zaGFyZS9UcmFzaC9maWxlcy9uZXcucHki.mwqZ81ZUhIQelK1tOVFwoCJUcZs",
+    "fileloc": "/opt/airflow/dags/.local/share/Trash/files/new.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "* 11 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "postgres-to-postgres-alarms-uc10",
+    "description": "postgres-to-postgres-alarms-uc10",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL3VjMTBfYmJpcF9hbGFybXMucHki.-qlVPKnTNdS8ePW8AC-H_BKcJqo",
+    "fileloc": "/opt/airflow/dags/uc10_bbip_alarms.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "*/15 * * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "python-script-test-dag",
+    "description": "python_script_test_dag",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzLy5sb2NhbC9zaGFyZS9UcmFzaC9maWxlcy9weXRob25fc2NyaXB0X3Rlc3RfZGFnLnB5Ig.Gj9tbZauIJymMkSH21RJfcNSrH0",
+    "fileloc": "/opt/airflow/dags/.local/share/Trash/files/python_script_test_dag.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "0 8 * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "radcom-data-pruning-dag",
+    "description": "data_pruning_on_radcom_tablea",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL3JhZGNvbV9kYXRhX3BydW5pbmdfZGFnLnB5Ig.mhCMcGU_CuYkENLbwfH8iF4ouZg",
+    "fileloc": "/opt/airflow/dags/radcom_data_pruning_dag.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": "None",
+    "tags": []
+},
+{
+    "dag_id": "sftp-test",
+    "description": "sftp-test",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL3NmdHAtdGVzdC5weSI.lcVag2FqrK99iZfLphAuEGJf_dY",
+    "fileloc": "/opt/airflow/dags/sftp-test.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": "None",
+    "tags": []
+},
+{
+    "dag_id": "slack_dag_test",
+    "description": "For testing purpose",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzLy5sb2NhbC9zaGFyZS9UcmFzaC9maWxlcy9zbGFja19kYWdfdGVzdC5weSI.mJgoF6AesM4rnurxL4OBl0JwCPA",
+    "fileloc": "/opt/airflow/dags/.local/share/Trash/files/slack_dag_test.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": "None",
+    "tags": []
+},
+{
+    "dag_id": "smoke-test",
+    "description": "A sample smoke test DAG",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzL3Ntb2tlX3Rlc3QucHki.MADGt6tjXHB6eR2zfTjKmVyVhRA",
+    "fileloc": "/opt/airflow/dags/smoke_test.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "*/2 * * * *"
+    },
+    "tags": []
+},
+{
+    "dag_id": "smoke-test-dag",
+    "description": "A sample smoke test DAG",
+    "file_token": "Ii9vcHQvYWlyZmxvdy9kYWdzLy5sb2NhbC9zaGFyZS9UcmFzaC9maWxlcy9zbW9rZV90ZXN0X2RhZyA4LnB5Ig.1tyXc1fwVNbUzEdTSxjFMJZKTcg",
+    "fileloc": "/opt/airflow/dags/.local/share/Trash/files/smoke_test_dag 8.py",
+    "is_active": "True",
+    "is_paused": "True",
+    "is_subdag": "True",
+    "owners": [
+        "airflow"
+    ],
+    "root_dag_id": "None",
+    "schedule_interval": {
+        "__type": "CronExpression",
+        "value": "*/5 * * * *"
+    },
+    "tags": []
+}
+],
+"total_entries": 213
+}
